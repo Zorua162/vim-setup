@@ -143,9 +143,9 @@ nnoremap <C-h> : silent exec '!inkscape-figures edit "'.b:vimtex.root.'/figures/
 
 
 
-source ~/.vim/simplesessions.vimrc
+source ~/Dropbox/vim/simplesessions.vimrc
 
-source ~/.vim/functions.vimrc
+source ~/Dropbox/vim/functions.vimrc
 "==================================================
 "Installing vim plug on first run
 "==================================================
